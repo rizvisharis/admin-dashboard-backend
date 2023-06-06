@@ -11,8 +11,8 @@ A brief description of your project.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/project.git`
-2. Navigate to the project directory: `cd project`
+1. Clone the repository: `git clone https://github.com/rizvisharis/admin-dashboard-backend.git`
+2. Navigate to the project directory: `cd admin-dashboard-backend`
 
 ### Using Docker (Recommended)
 
